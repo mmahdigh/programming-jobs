@@ -1,6 +1,4 @@
 # programming-jobs
-A Multiple Linear Regression Model To Predict Number Of Software Developers In Countries
-
 
 Data Sources:
 
