@@ -1,6 +1,6 @@
 # programming-jobs
 
-لینک مقاله نوشته شده به فارسی: http://mahdii.me/programming-jobs/
+لینک مقاله نوشته شده به فارسی: http://mahdii.me/developers-stat/
 
 Data Sources:
 
